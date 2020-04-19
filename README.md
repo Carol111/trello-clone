@@ -1,3 +1,4 @@
+![Trello Clone](https://imgur.com/dICdwXO.png)
 # trello-clone
 
 ## Project setup
